@@ -1,4 +1,5 @@
-# SPcontribuir
+# PMcontribuir
+📢 O nome SP mudou para PM!
 ## 1. Como contribuir
 Para contribuir, começa criando uma conta Github. Para tal, vai a [www.github.com/signup](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home).   
 Para criar a tua conta, podes usar o Google Tradutor, se precisares. É bastante simples criar uma conta no Github.    
